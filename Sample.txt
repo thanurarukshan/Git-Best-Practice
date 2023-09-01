@@ -1,2 +1,3 @@
 Sample Text 01
 Sample Text 02
+Sample Text 03 (Edited directly text in the remote repo.)
